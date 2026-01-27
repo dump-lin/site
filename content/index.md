@@ -1,5 +1,5 @@
 ---
-title: (*￣▽￣)旦 且(´∀`*)
+title: Welcome!
 ---
 ```
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
