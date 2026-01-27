@@ -1,6 +1,5 @@
 ---
 title: (*￣▽￣)旦 且(´∀`*)
-branch: working
 ---
 ```
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
