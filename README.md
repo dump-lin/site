@@ -1,6 +1,6 @@
 # my personal site
 idk how you got here
-eventually will be something maybe
+eventually this will be something maybe
 built with quartz
 
 credits:
